@@ -1,5 +1,4 @@
 # SHREEM
-# Tomorrow Targets — Deep Guide for Intraday Alpha (No Ticks Required)
 
 > **Scope:** All fields below are **predictions for the next regular session** and are designed for **bar-close decisioning** (e.g., 1–5-minute bars), not tick-chasing.  
 > **Convention:** Unless the name says `tomo_raw__*`, prices are **rebased so that `tomo__open = 1.0`**.  
@@ -7,7 +6,7 @@
 
 ---
 
-## Quick Summary Table (TL;DR)
+## Quick Summary Table
 
 | Feature | Intuition | What “high” means | Bias/Action (bar-close only) |
 |---|---|---|---|
